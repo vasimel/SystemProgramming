@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/P2PChat.dir/P2PChat_autogen/mocs_compilation.cpp.o CMakeFiles/P2PChat.dir/main.cpp.o -o P2PChat  /usr/lib/x86_64-linux-gnu/libQt5Network.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

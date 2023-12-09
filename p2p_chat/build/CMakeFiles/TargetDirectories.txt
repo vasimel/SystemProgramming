@@ -1,0 +1,4 @@
+/home/vasilina/Documents/hse_studies/SystemProgramming/p2p_chat/build/CMakeFiles/P2PChat.dir
+/home/vasilina/Documents/hse_studies/SystemProgramming/p2p_chat/build/CMakeFiles/edit_cache.dir
+/home/vasilina/Documents/hse_studies/SystemProgramming/p2p_chat/build/CMakeFiles/rebuild_cache.dir
+/home/vasilina/Documents/hse_studies/SystemProgramming/p2p_chat/build/CMakeFiles/P2PChat_autogen.dir
